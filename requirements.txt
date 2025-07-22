@@ -20,3 +20,4 @@ openai
 ipykernel
 langchain_groq
 huggingface_hub
+duckduckgo-search
